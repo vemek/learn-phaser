@@ -1,5 +1,3 @@
-import { Phaser } from 'phaser';
- 
 export class Victory extends Phaser.State{
     create() {
         let textStyle = {font: '45px Arial', alight: 'center', stroke: 'black', fill: 'red'};

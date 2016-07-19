@@ -1,5 +1,3 @@
-import { Phaser } from 'phaser';
- 
 export class Load extends Phaser.State {
     preload() {
        let textStyle = {font: '45px Arial', alight: 'center', stroke: 'blue', fill: 'blue'};
